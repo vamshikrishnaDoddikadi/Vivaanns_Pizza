@@ -189,4 +189,5 @@ The application can be deployed on any static hosting platform:
 
 ## License
 
-This project is for educational purposes. Please respect any usage guidelines from your institution.
+This project is for education and academic purposes and made with love and passion.
+
