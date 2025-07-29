@@ -3,10 +3,10 @@
 
 A React-based pizza ordering application with AI-powered chat interface, speech recognition, and database integration.
 
-A project by Vamshi Krishna Doddikadi
-             Preetam Bade
-             Gourav Jalaneela
-             Anurag Abhimanyu Singh
+A project by Vamshi Krishna Doddikadi,
+             Preetam Bade,
+             Gourav Jalaneela,
+             Anurag Abhimanyu Singh.
 
 <img width="1918" height="907" alt="Login_screen" src="https://github.com/user-attachments/assets/895f5983-6596-438e-94c8-c741b3e70ec5" />
 <img width="1908" height="907" alt="order_chat_screen" src="https://github.com/user-attachments/assets/271af322-af85-43f1-abe4-7642cc4b8952" />
