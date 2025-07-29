@@ -3,6 +3,13 @@
 
 A React-based pizza ordering application with AI-powered chat interface, speech recognition, and database integration.
 
+<img width="1918" height="907" alt="Login_screen" src="https://github.com/user-attachments/assets/895f5983-6596-438e-94c8-c741b3e70ec5" />
+<img width="1908" height="907" alt="order_chat_screen" src="https://github.com/user-attachments/assets/271af322-af85-43f1-abe4-7642cc4b8952" />
+<img width="1880" height="967" alt="order_success_screen" src="https://github.com/user-attachments/assets/c1441ccd-db04-47db-8e34-f87799183114" />
+
+
+
+
 ## Features
 
 ### 🍕 Core Functionality
